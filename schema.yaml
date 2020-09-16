@@ -7,7 +7,7 @@ servers:
 paths:
   /user:
     get:
-      summary: 'Sample endpoint: Returns details about a particular user - updated - by github'
+      summary: 'Sample endpoint: Returns details about a particular user - updated - by github - again'
       operationId: listUser
       tags:
         - user
